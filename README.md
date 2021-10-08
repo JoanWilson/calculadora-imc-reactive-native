@@ -1,1 +1,1 @@
-# Aprendendo a utilizar React native com Expo
+# Aprendendo a utilizar React native com Expo Snacks! 
